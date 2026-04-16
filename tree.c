@@ -1,4 +1,4 @@
-```c
+
 // tree.c — Tree object serialization and construction
 
 #include "tree.h"
@@ -148,4 +148,4 @@ int tree_from_index(ObjectID *id_out) {
     free(data);
     return 0;
 }
-```
+
